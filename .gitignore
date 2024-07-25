@@ -1,0 +1,87 @@
+# IntelliJ IDEA specific files #
+.idea/
+*.iml
+*.iws
+
+# IntelliJ IDEA indexing files #
+*.iml.idea
+
+# IntelliJ IDEA cache files #
+.idea/caches/
+
+# IntelliJ IDEA workspace files #
+.idea/workspace.xml
+
+# IntelliJ IDEA vss.xml file #
+.idea/dataSources.vss.xml
+
+# IntelliJ IDEA task XML #
+.idea/task.xml
+
+# IntelliJ IDEA code style XML #
+.idea/codeStyleSettings.xml
+
+# IntelliJ IDEA project settings #
+.idea/*.sln
+
+# IntelliJ IDEA project libraries #
+.idea/lib/
+
+# IntelliJ IDEA generated folders #
+*/build/
+target/
+out/
+bin/
+gen/
+
+# Log files #
+*.log
+
+# Compiled source #
+*.class
+
+# Package files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# OS generated files #
+.DS_Store
+Thumbs.db
+
+# .idea folder specific for PHPStorm #
+.idea/dataSources/
+.idea/dataSources.ids.php
+.idea/dataSources.local.xml
+.idea/dataSources.xml
+.idea/*.phpstorm.meta.php
+
+# PhpStorm-specific files #
+*.phpstorm.meta.php
+.phpstorm.meta.php
+
+# Composer vendor directory #
+vendor/
+
+# npm dependency directory #
+node_modules/
+
+# Yarn dependency directory #
+yarn.lock
+yarn-debug.log
+yarn-error.log
+
+# dotenv environment variable file #
+.env
+
+# Other #
+*.bak
+*.swp
+*.tmp
+*.temp
+*.log
+*.bak.*
+*.*~
